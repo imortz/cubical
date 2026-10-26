@@ -1,0 +1,8 @@
+# build products
+cubical
+cubical-debug
+cshim.o
+cshim-debug.o
+
+# the CaDiCaL checkout `make` creates
+third_party/
